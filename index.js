@@ -5,7 +5,7 @@ const $ = (...arg) => {
     return document.querySelector(...arg)
 }
 
-let name = "01"
+let name = "02"
 
 const myModal = () => {
     
